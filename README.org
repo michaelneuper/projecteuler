@@ -1,0 +1,11 @@
+#+title: Project Euler Solutions
+
+* Solved [7/8]
+- [X] Problem 1
+- [X] Problem 13
+- [X] Problem 15
+- [X] Problem 18
+- [ ] Problem 31
+- [X] Problem 36
+- [X] Problem 42
+- [X] Problem 67
